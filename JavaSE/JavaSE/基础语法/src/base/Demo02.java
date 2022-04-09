@@ -1,6 +1,6 @@
-import com.sun.org.apache.xpath.internal.objects.XString;
+package base;
 
-public class Demo2 {
+public class Demo02 {
 
     public static void main(String[] args) {
         // 数字类型练习
