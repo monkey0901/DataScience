@@ -26,6 +26,14 @@ Scanner scanner = new Scanner(System.in);
 - while
 - 增强型for语句
 
+```java
+for (ElementType element:arrayName){
+    
+};
+```
+
+
+
 ## 5.  break & continue
 
 - break：跳出循环体，结束循环；
